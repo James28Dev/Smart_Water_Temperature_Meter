@@ -1,4 +1,4 @@
 # Smart_Water_Temperature_Meter
-* Final project for Higher Vocational Certificate level at Songkhla Vocational College.
+* โปรเจคสำเร็จการศึกษาระดับประกาศนียบัตรวิชาชีพชั้นสูงวิทยาลัยอาชีวศึกษาสงขลา
 -------------------------------------------------------
-* โปรเจคจบปีการศึกษาระดับประกาศนียบัตรวิชาชีพชั้นสูงที่วิทยาลัยอาชีวศึกษาสงขลา
+* Final project for Higher Vocational Certificate level at Songkhla Vocational College.
